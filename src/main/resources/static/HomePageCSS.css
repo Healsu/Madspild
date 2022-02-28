@@ -26,6 +26,17 @@ h1 {
     width: 25%;
     text-align: center;
 }
-.information{
+.box1{
+    border: 1px solid black;
+    margin: auto;
+    width: 60%;
 
+}
+.sideBox1{
+
+    border-radius: 25px;
+    border: 1px ridge black;
+    width: 35%;
+    float: right;
+    text-align: center;
 }

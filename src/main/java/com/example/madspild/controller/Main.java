@@ -11,6 +11,6 @@ public class Main {
     public String homepage(){
 
 
-        return "Homepage";
+        return "index";
     }
 }
