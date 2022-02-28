@@ -27,13 +27,19 @@ h1 {
     text-align: center;
 }
 .box1{
-    border: 1px solid black;
     margin: auto;
+    margin-top: 50px;
+    border: 1px solid black;
     width: 60%;
 
 }
+.imgBox1{
+    width: 400px;
+    height: 300px;
+}
 .sideBox1{
-
+    margin-top: 25px;
+    margin-right: 25px;
     border-radius: 25px;
     border: 1px ridge black;
     width: 35%;
