@@ -1,6 +1,6 @@
 
 body{
-    background-color: #3fae38;
+    background-color: #3fae39;
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
 .main{
     margin: auto;
     width: 95%;
-    height: 1000px;
+    height: 1500px;
     background-color: #fff;
 
 
@@ -37,6 +37,7 @@ h1 {
     width: 400px;
     height: 300px;
 }
+
 .sideBox1{
     margin-top: 25px;
     margin-right: 25px;
@@ -46,3 +47,4 @@ h1 {
     float: right;
     text-align: center;
 }
+
