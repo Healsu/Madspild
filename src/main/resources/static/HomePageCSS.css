@@ -31,11 +31,12 @@ h1 {
     margin-top: 50px;
     border: 1px solid black;
     width: 60%;
+    height: 310px;
 
 }
 .imgBox1{
     width: 400px;
-    height: 300px;
+    height: 310px;
 }
 
 .sideBox1{
@@ -47,4 +48,19 @@ h1 {
     float: right;
     text-align: center;
 }
+.Box2{
+    margin-top: 10px;
+    width: 45%;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.bundBox{
+    background-color: #3fae38;
+    width: 45%;
+    height: 350px;
+    margin-top: 200px;
+   
+}
+
 
