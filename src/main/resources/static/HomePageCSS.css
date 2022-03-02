@@ -72,3 +72,57 @@ h3{
 }
 
 
+
+/* Jimmy  kontakt*/
+
+textarea{
+    float: left;
+    margin: 0 20%;
+    width: 60%;
+    height: 150px;
+}
+
+#kontakt{
+    float: left;
+    width: 60%;
+    margin: 20px 20%;
+    padding-bottom: 10px;
+    border: 1px solid black;
+}
+
+#button{
+    float: left;
+    width: 10%;
+    margin: 10px 0 0 71%;
+}
+
+#kontakt h2{
+    margin-left: 45%;
+    float: left;
+}
+
+#kontakt p{
+    float: left;
+    width: 20%;
+    margin-left: 20%;
+}
+
+.kontakt_input{
+    margin-top: 10px;
+    width: 40%;
+    float: left;
+}
+
+.row{
+    float: left;
+    width: 100%;
+}
+
+/* Samuels kode :) */
+
+ body{
+     background: #3fae38;
+ }
+h1{
+
+}
