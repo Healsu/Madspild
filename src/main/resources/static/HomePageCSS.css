@@ -69,8 +69,32 @@ h3{
     width: 45%;
     height: 350px;
     margin-top: 200px;
+    color: white;
    
 }
+
+/* Jimmy bundbox*/
+
+ #kontakt_info{
+     float: left;
+     width: 30%;
+     margin-left: 30%;
+ }
+
+ #kontakt_info p:first-child{
+     font-weight: bold;
+     font-size: 25px;
+ }
+
+ #adresse p:first-child{
+     font-weight: bold;
+     font-size: 25px;
+ }
+
+ #adresse{
+     float: left;
+     width: 30%;
+ }
 
 
 
