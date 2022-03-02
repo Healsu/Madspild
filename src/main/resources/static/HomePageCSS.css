@@ -1,4 +1,5 @@
 
+ /* Timmie - index */
 body{
     background-color: #3fae39;
 }
@@ -6,6 +7,10 @@ body{
 h1 {
     color: #3fae38;
     text-align: center;
+}
+h3{
+    padding-left: 2px;
+    color: white
 }
 .main{
     margin: auto;
@@ -50,10 +55,11 @@ h1 {
 }
 .Box2{
     margin-top: 10px;
-    width: 45%;
-    height: 500px;
+    width: 520px;
+    height: 600px;
     border: 1px solid black;
     border-radius: 2px;
+    border-top-color: white;
 }
 .bundBox{
     background-color: #3fae38;
