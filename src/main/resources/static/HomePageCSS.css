@@ -1,4 +1,5 @@
 
+ /* Timmie - index */
 body{
     background-color: #3fae39;
 }
@@ -58,7 +59,7 @@ h3{
     height: 600px;
     border: 1px solid black;
     border-radius: 2px;
-
+    border-top-color: white;
 }
 .bundBox{
     background-color: #3fae38;
