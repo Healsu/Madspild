@@ -48,16 +48,18 @@ h3{
     margin-top: 25px;
     margin-right: 25px;
     border-radius: 25px;
-    border: 1px ridge black;
+    border: 1px solid black;
     width: 35%;
     float: right;
     text-align: center;
 }
 .Box2{
+
     margin-top: 10px;
     width: 520px;
     height: 600px;
-    border: 1px solid black;
+    border-bottom: solid 3px black;
+
     border-radius: 2px;
     border-top-color: white;
 }
@@ -140,4 +142,11 @@ textarea{
     width: 100%;
 }
 
+/* Samuels kode :) */
 
+ body{
+     background: #3fae38;
+ }
+h1{
+
+}
