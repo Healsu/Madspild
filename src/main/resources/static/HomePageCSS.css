@@ -7,6 +7,10 @@ h1 {
     color: #3fae38;
     text-align: center;
 }
+h3{
+    padding-left: 2px;
+    color: white
+}
 .main{
     margin: auto;
     width: 95%;
@@ -51,9 +55,10 @@ h1 {
 .Box2{
     margin-top: 10px;
     width: 45%;
-    height: 500px;
+    height: 600px;
     border: 1px solid black;
     border-radius: 2px;
+
 }
 .bundBox{
     background-color: #3fae38;
