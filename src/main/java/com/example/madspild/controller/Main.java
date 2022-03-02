@@ -9,8 +9,11 @@ public class Main {
 
     @GetMapping("/Homepage")
     public String homepage(){
-
-
         return "index";
+    }
+
+    @GetMapping("/Kontakt")
+    public String kontakt(){
+        return "kontakt";
     }
 }
