@@ -75,7 +75,7 @@ h3{
 .bundBox{
     background-color: #3fae38;
     width: 45%;
-    height: 350px;
+    height: 30%;
     margin-top: 200px;
     color: white;
 
@@ -194,16 +194,23 @@ h1{
     margin-top: 50px;
     width: 20%;
     border: 1px solid black;
-
 }
 #box33{
     float: left;
-
-    margin-left: 75px;
-    clear: left;
+    margin-top: 50px;
     width: 20%;
     border: 1px solid black;
 }
 #box34{
-    width: 100%;
+    margin-left: 75px;
+    width: 40%;
+    float: left;
+}
+.piechart{
+    float: right;
+    width: 50%;
+}
+.graph{
+    float: left;
+    width: 40%;
 }
