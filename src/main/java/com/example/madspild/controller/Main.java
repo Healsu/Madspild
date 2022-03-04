@@ -17,7 +17,7 @@ public class Main {
         return "kontakt";
     }
     @GetMapping("/side2")
-    public String side2(){
+    public String Side2(){
         return "side2";
     }
 
