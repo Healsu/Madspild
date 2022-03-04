@@ -175,18 +175,35 @@ textarea{
 
 /* Samuels kode :) */
 
-.tekstFormat{
+ body{
+     background: #3fae38;
+ }
+h1{
+    color: black;
+    text-align: center;
+    font-size: 50px;
 
-    margin-left: 5%;
-    width: 90%;
-    height: 200px;
-    text-align: justify;
+}
+
+.samuel{
+    font-size: 20px;
+}
+#box32{
+    float: left;
+    margin-left: 75px;
+    margin-top: 50px;
+    width: 20%;
+    border: 1px solid black;
+
+}
+#box33{
+    float: left;
+
+    margin-left: 75px;
+    clear: left;
+    width: 20%;
     border: 1px solid black;
 }
-.imgSide2{
-    padding-top: 15px;
-    width: 300px;
-    height: 250px;
-    margin-left: 50%;
+#box34{
+    width: 100%;
 }
-
